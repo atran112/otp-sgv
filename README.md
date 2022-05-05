@@ -1,2 +1,2 @@
-# otp
+# otp-sgv
 This repository contains the files that were used in my ArcGIS StoryMap [here](https://storymaps.arcgis.com/stories/e429dcb90bf042d5af5ac609ae82e963). The only files that are missing from this repository are the osm.pbf files to build the network graph becuase the file sizes are too big. Regardless, you can download them [here](https://download.geofabrik.de/north-america/us/california/socal.html). My inspiration and understanding of how to perform this analysis comes from this guide [here](https://github.com/marcusyoung/otp-tutorial).
